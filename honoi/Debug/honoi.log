@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (honoi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  honoi.cpp
+E:\university\lessons\data structure\Practice\hanoi\honoi\honoi.cpp(50,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\university\lessons\data structure\Practice\hanoi\honoi\honoi.cpp(58,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\university\lessons\data structure\Practice\hanoi\honoi\honoi.cpp(82,21): warning C4018: '<': signed/unsigned mismatch
+E:\university\lessons\data structure\Practice\hanoi\honoi\honoi.cpp(94,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  honoi.vcxproj -> E:\university\lessons\data structure\Practice\hanoi\Debug\hanoi.exe
